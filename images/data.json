@@ -1,0 +1,88 @@
+{ 
+"contents": 
+	{
+    "menu" :
+    	[
+    		{
+    			"name":"About Me", 
+    			"link":"#about"
+    		}, 
+    		{
+    		 	"name":"Skills",
+    		 	"link":"#skill"
+    		}, 
+    		{
+    			"name":"Experience", 
+    			"link":"#experience"
+    		}, 
+    		{
+    			"name":"Education", 
+    			"link":"#education"
+    		}, 
+    		{
+    			"name":"Projects", 
+    			"link":"#project"
+    		},
+    		{
+    			"name":"Contact", 
+    			"link":"#contact"
+    		}
+    	],
+	"header" :
+		{
+			"Title":"HI! I'm BALAJIBABU T R ",
+			"Caption":"Android Experts from Madurai, Tamilnadu"
+			
+		},
+	"about" :
+		{
+			"story":"Hello, I’m a Android Experts & IoT (Internet of Things) hobbyist  from Madurai, Tamilnadu. I hold a bachelor's degree in Electronics and Communication Engineering."
+		},
+	"info":
+		{
+    		"name":"BALAJIBABU THAPPALLI RAMESHBABU", 
+    		"phone":"+91 7259045144", 
+    		"email":"trsbalaji@gmail.com", 
+    		"address":"Madurai, Tamilnadu",
+            "lanuage":"Sourashtra, Tamil, English, Hindi",
+            "hobbies":"Watching movies, Listening music"
+            
+    	},
+    "skills":
+    	{
+    		"skill":"Man behind the gun, any sophisticated weapons. Human remains that taking the role. We are experienced in utilizing all resources."
+    	},
+    "skilllits" :
+    	[
+    		{
+    			"valuea":"70",
+    			"name":"JavaScript", 
+    			"value":"70"
+    		}, 
+    		{
+    			"valuea":"40",
+    			"name":"C", 
+    			"value":"40"
+    		},
+    		{
+    			"valuea":"90",
+    			"name":"HTML", 
+    			"value":"90"
+    		}, 
+    		{
+    		 	"valuea":"20",
+    		 	"name":"Java",
+    		 	"value":"20"
+    		}
+    	],
+    "contact" :
+    	{
+    		"address":"#S.N.PG, Pragathi Layout, Doddanekundi, Marthahalli, Bangalore, India, 560037",
+    		"phone":"+91 7259045144",
+    		"email":"trsbalaji@gmail.com",
+    		"site":"www.balajibabu.co.in"
+    	}
+
+    	
+	}
+}
