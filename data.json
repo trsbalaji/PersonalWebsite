@@ -8,45 +8,47 @@
     			"link":"#about"
     		}, 
     		{
-    		 	"name":"Skills",
-    		 	"link":"#skill"
+    		 	"name":"Resume",
+    		 	"link":"#resume"
     		}, 
     		{
-    			"name":"Experience", 
-    			"link":"#experience"
+    			"name":"portfolio", 
+    			"link":"#portfolio"
     		}, 
     		{
-    			"name":"Education", 
-    			"link":"#education"
+    			"name":"Team", 
+    			"link":"#team"
     		}, 
     		{
-    			"name":"Projects", 
-    			"link":"#project"
+    			"name":"Testimonial", 
+    			"link":"#testimonial"
     		},
     		{
+    			"name":"Blog", 
+    			"link":"#Blog"
+    		}, 
+    		{
     			"name":"Contact", 
-    			"link":"#contact"
+    			"link":"#Contact"
     		}
     	],
 	"header" :
 		{
-			"Title":"HI! I'm Arjun Thiraviam ",
-			"Caption":"Web Applications Developer from Madurai, Tamilnadu",
+			"Title":"HI! I'm Balaji Babu ",
+			"Caption":"Fullstack Developer from Madurai, Tamilnadu",
 			"Readbutton":"HIRE ME"
 		},
 	"about" :
 		{
-			"story":"Hello, I’m a Web Applications Developer & IoT (Internet of Things) hobbyist  from Madurai, Tamilnadu. I hold a bachelor's degree in Information Technology and a diploma in Electrical Engineering."
+			"story":"Hello, I’m a full stack developer & IoT (Internet of Things) hobbyist  from Madurai, Tamilnadu. I hold a bachelor's degree in Information Technology and a diploma in Electrical Engineering."
 		},
 	"info":
 		{
     		"name":"Arjun Thiraviam", 
+    		"age":"23",
     		"phone":"+91 7899184153", 
     		"email":"arjunthiraviam@gmail.com", 
-    		"address":"Madurai, Tamilnadu",
-            "lanuage":"Tamil, English, Hindi, Telugu",
-            "hobbies":"Coding, Watching movies, Listening music"
-            
+    		"address":"Madurai, Tamilnadu"
     	},
     "skills":
     	{
@@ -80,7 +82,7 @@
     		"address":"#1, 2nd Floor, 6th Cross, Lakshmi Layout, Munnekolala, Marthahalli, Bangalore, India, 560037",
     		"phone":"+91 7899184153",
     		"email":"arjunthiraviam@gmail.com",
-    		"site":"www.arjunthiraviam.co.in"
+    		"site":"www.website.net"
     	}
 
     	
