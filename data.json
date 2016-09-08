@@ -1,0 +1,88 @@
+{ 
+"contents": 
+	{
+    "menu" :
+    	[
+    		{
+    			"name":"About Me", 
+    			"link":"#about"
+    		}, 
+    		{
+    		 	"name":"Skills",
+    		 	"link":"#skill"
+    		}, 
+    		{
+    			"name":"Experience", 
+    			"link":"#experience"
+    		}, 
+    		{
+    			"name":"Education", 
+    			"link":"#education"
+    		}, 
+    		{
+    			"name":"Projects", 
+    			"link":"#project"
+    		},
+    		{
+    			"name":"Contact", 
+    			"link":"#contact"
+    		}
+    	],
+	"header" :
+		{
+			"Title":"HI! I'm BALAJIBABU T R ",
+			"Caption":"Android Expert"
+			
+		},
+	"about" :
+		{
+			"story":"Hi, I am BALAJIBABU T.R, I'm a Senior Validation Engineer. I live in Bellvue, Washington.I have completed my bachelors degree in Electronics and communication Engineering from Anna University. Madurai is my home town which is situated in south part of Tamil nadu in India."
+		},
+	"info":
+		{
+    		"name":"BALAJIBABU THAPPALLI RAMESHBABU", 
+    		"phone":"+1-503 446 0660", 
+    		"email":"trsbalaji@gmail.com", 
+    		"address":"Madurai, Tamilnadu",
+            "lanuage":"Sourashtra, Tamil, English, Hindi",
+            "hobbies":"Watching movies, Listening music"
+            
+    	},
+    "skills":
+    	{
+    		"skill":"Man behind the gun, any sophisticated weapons. Human remains that taking the role. We are experienced in utilizing all resources."
+    	},
+    "skilllits" :
+    	[
+    		{
+    			"valuea":"70",
+    			"name":"JavaScript", 
+    			"value":"70"
+    		}, 
+    		{
+    			"valuea":"40",
+    			"name":"C", 
+    			"value":"40"
+    		},
+    		{
+    			"valuea":"90",
+    			"name":"HTML", 
+    			"value":"90"
+    		}, 
+    		{
+    		 	"valuea":"20",
+    		 	"name":"Java",
+    		 	"value":"20"
+    		}
+    	],
+    "contact" :
+    	{
+    		"address":"15522 NE 22ND PL #837, Bellevue WA ",
+    		"phone":"+1 503-446-0660",
+    		"email":"trsbalaji@gmail.com",
+    		"site":"www.balajibabu.co.in"
+    	}
+
+    	
+	}
+}
